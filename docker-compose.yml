@@ -12,6 +12,7 @@ services:
       - DATABASE_URL=postgres://prisma:prisma@db:5432/prisma
     depends_on:
       - db
+    command: ["./docker-entrypoint.sh"]
 
   db:
     image: postgres:15-alpine

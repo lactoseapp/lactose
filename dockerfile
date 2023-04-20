@@ -10,6 +10,9 @@ COPY package*.json ./
 # Install dependencies
 RUN npm ci
 
+# Copy the entrypoint script to the container
+COPY docker-entrypoint.sh /app
+
 # Copy the rest of the application code to the container
 COPY . .
 
