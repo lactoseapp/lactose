@@ -9,6 +9,12 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@milkdown/core": "^7.2.0",
+    "@milkdown/ctx": "^7.2.0",
+    "@milkdown/preset-commonmark": "^7.2.0",
+    "@milkdown/prose": "^7.2.0",
+    "@milkdown/react": "^7.2.0",
+    "@milkdown/transformer": "^7.2.0",
     "@prisma/client": "^4.13.0",
     "@types/node": "18.15.12",
     "@types/react": "18.0.37",
