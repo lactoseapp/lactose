@@ -33,3 +33,5 @@ At any point in development the most recent production deployment can be found a
 ## Contributing
 
 if you wish to contribute please don't hestiate to reach out to me before submitting your pull request. [e-mail me here](mailto:syntaxbullet@protonmail.com).
+
+A previous implementation of the MVP written in Sveltekit can be found [here](https://https://github.com/lactoseapp/lactose-old)
