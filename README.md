@@ -21,10 +21,10 @@ _Additional benefits of an Account include_:
 
 ## Development Stack
 
-- Fullstack Framework [NEXT.js](https://https://nextjs.org/)
+- Fullstack Framework [NEXT.js](https://nextjs.org/)
 - CSS Framework [TailwindCSS](https://tailwindcss.com)
 - Database ORM [Prisma](https://prisma.io)
-- Database [PostgreSQL](https://https://www.postgresql.org/)
+- Database [PostgreSQL](https://www.postgresql.org/)
 
 ### This project is currently in a very early stage of development.
 
@@ -34,4 +34,6 @@ At any point in development the most recent production deployment can be found a
 
 if you wish to contribute please don't hestiate to reach out to me before submitting your pull request. [e-mail me here](mailto:syntaxbullet@protonmail.com).
 
-A previous implementation of the MVP written in Sveltekit can be found [here](https://https://github.com/lactoseapp/lactose-old)
+A previous implementation of the MVP written with SvelteKit can be found [here](https://github.com/lactoseapp/lactose-old)
+
+If you like what I am doing or have any suggestions or ideas feel free to reach out to me via the e-mail linked above.
