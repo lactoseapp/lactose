@@ -37,3 +37,19 @@ if you wish to contribute please don't hestiate to reach out to me before submit
 A previous implementation of the MVP written with SvelteKit can be found [here](https://github.com/lactoseapp/lactose-old)
 
 If you like what I am doing or have any suggestions or ideas feel free to reach out to me via the e-mail linked above.
+
+### Running a local development environment using `Docker` and `docker-compose`
+
+Requirements:
+
+- docker
+- docker-compose
+
+To set up a local development environment you can use the provided `docker-compose.yml` file.
+The following command will start a local development environment with a postgres database and a next.js server.
+
+```bash
+docker-compose up
+```
+
+The next.js server will be available at `localhost:3000`
